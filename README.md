@@ -77,13 +77,7 @@ This upgrade makes AgroStick **actionable**, not just informative.
   * Leaf damage patterns
 * Differentiates healthy vs affected areas
 
-### 3. Precision Spraying
-
-* Smart nozzle activates only when infection is detected
-* Spray intensity and duration are controlled automatically
-* No unnecessary chemical discharge
-
-### 4. Seamless Integration
+### 3. Seamless Integration
 
 * Attaches as an **add-on module** to AgroStick
 * Uses shared power and control interface
@@ -177,5 +171,5 @@ This repository represents a **prototype / concept upgrade module** developed fo
 
 ## 🙌 Thank You
 
-Thank you for exploring **AgroStick 2.0** 🌾
+Thank you for exploring **AgroStick** 🌾
 Together, let’s move toward **smarter farming and cleaner agriculture** 🚜🌱
