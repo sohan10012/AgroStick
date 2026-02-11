@@ -1,8 +1,8 @@
-# AgroStick 2.0 🌾
+# AgroStick 🌾
 
 **AI-Powered Precision Pesticide Spraying Upgrade for Smart Farming**
 
-AgroStick 2.0 is an **AI-driven precision pesticide spraying add-on** designed as an upgrade to the existing AgroStick platform. It enables farmers to **detect crop diseases and pest infestations in real time** and spray pesticides **only where required**, drastically reducing chemical usage, cost, and environmental harm.
+AgroStick is an **AI-driven precision pesticide spraying add-on** designed as an upgrade to the existing AgroStick platform. It enables farmers to **detect crop diseases and pest infestations in real time** and spray pesticides **only where required**, drastically reducing chemical usage, cost, and environmental harm.
 
 The system transforms AgroStick from a monitoring tool into a **complete precision farming solution**, combining sensing, vision, and targeted action in a single handheld device.
 
@@ -28,9 +28,9 @@ As a result:
 
 ---
 
-## 💡 Solution: AgroStick 2.0
+## 💡 Solution: AgroStick
 
-AgroStick 2.0 introduces a **vision-based, AI-powered precision spraying module** that attaches seamlessly to the original AgroStick as an **upgrade add-on**.
+AgroStick introduces a **vision-based, AI-powered precision spraying module** that attaches seamlessly to the original AgroStick as an **upgrade add-on**.
 
 Instead of spraying entire fields, the system:
 
@@ -60,7 +60,7 @@ This upgrade makes AgroStick **actionable**, not just informative.
 </p>
 
 
-## 🧠 How AgroStick 2.0 Works
+## 🧠 How AgroStick Works
 
 ### 1. Crop Scanning
 
@@ -152,13 +152,13 @@ This upgrade makes AgroStick **actionable**, not just informative.
 * Government incentives for **chemical reduction**
 * Rapid adoption of **AI in agriculture**
 
-AgroStick 2.0 positions itself as a **low-cost precision spraying solution** accessible even to small farmers.
+AgroStick positions itself as a **low-cost precision spraying solution** accessible even to small farmers.
 
 ---
 
 ## 🎯 Vision
 
-**AgroStick 2.0 aims to make precision agriculture affordable, practical, and scalable.**
+**AgroStick aims to make precision agriculture affordable, practical, and scalable.**
 
 By upgrading existing AgroStick devices with AI-powered action, the platform enables farmers to:
 
